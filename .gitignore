@@ -1,2 +1,6 @@
 # VIM tmp files
 *.swp
+
+# idea
+.idea
+
